@@ -26,7 +26,7 @@
           <mxGeometry x="1219.22" y="1110" width="730.78" height="210" as="geometry" />
         </mxCell>
         <mxCell id="UngjaMYt62MD7VlxkVvm-8" value="功能介绍：XXX&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;功能实现：（触发方式-&amp;gt;&lt;span style=&quot;&quot;&gt;计算公式-&amp;gt;数据源）&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fillColor=#f5f5f5;fontColor=#FF3333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="1010" width="485" height="190" as="geometry" />
+          <mxGeometry x="2050" y="1030" width="485" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UngjaMYt62MD7VlxkVvm-9" value="功能介绍：XXX&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;功能实现：（触发方式-&amp;gt;&lt;span style=&quot;&quot;&gt;计算公式(可选)-&amp;gt;数据源）&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fillColor=#f5f5f5;fontColor=#FF3333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1720" width="485" height="190" as="geometry" />
